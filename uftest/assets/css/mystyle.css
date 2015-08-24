@@ -1,0 +1,18 @@
+#transimg {
+  background: none;
+  border: none;
+  box-shadow: none;
+  color: red;
+}
+.slides ~ .intro{
+  background-image: none;
+}
+
+.mylogo  {
+  background-image: url(../images/E-do.png);
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: 15px 94%;
+}
+
+#  background-position: left bottom;

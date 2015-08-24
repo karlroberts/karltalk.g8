@@ -1,0 +1,15 @@
+target/
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/
+
+# Intellij specific cruft
+.idea
+*.iws
+.history
+.idea_modules
+gen
+out
+tmp
+mysession.vim
