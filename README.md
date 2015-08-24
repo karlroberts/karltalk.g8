@@ -1,4 +1,4 @@
-#Avocado techtalk giter8 template
+#Karl's personal techtalk giter8 template
 
 Template to get tech talks running quickly.
 
